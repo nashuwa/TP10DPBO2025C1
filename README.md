@@ -48,6 +48,10 @@ musik_mvvm_php
 ![Screenshot_2](https://github.com/user-attachments/assets/5f9ef418-fa59-4b75-a130-3a028badb168)
 ![Screenshot_1](https://github.com/user-attachments/assets/7905155b-85c4-43bb-bdab-83889a993886)
 
+---
+
+## Desain
+![image](https://github.com/user-attachments/assets/1021621f-e093-40a9-80ee-240e8c8d6a9b)
 
 ---
 
